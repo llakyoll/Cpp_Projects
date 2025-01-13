@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Staff.dir/src/main.cpp.o CMakeFiles/Staff.dir/src/staff.cpp.o -o Staff 
