@@ -1,0 +1,3 @@
+/home/pomas/cpp/studentManagementSystem/build/CMakeFiles/Student.dir
+/home/pomas/cpp/studentManagementSystem/build/CMakeFiles/edit_cache.dir
+/home/pomas/cpp/studentManagementSystem/build/CMakeFiles/rebuild_cache.dir
