@@ -1,0 +1,3 @@
+/home/pomas/cpp/bankingProject/build/CMakeFiles/account.dir
+/home/pomas/cpp/bankingProject/build/CMakeFiles/edit_cache.dir
+/home/pomas/cpp/bankingProject/build/CMakeFiles/rebuild_cache.dir
